@@ -43,4 +43,4 @@ Interested in helping build the future of AI + Badminton?
 Fork this repo, create a new branch, and raise a pull request.
 
 ```bash
-git clone https://github.com/EVINJSUBIN/The_Badminton_Algorithm.git
+git clone https://github.com/EVINJSUBIN/The_Badmintion_Algorithim.git
